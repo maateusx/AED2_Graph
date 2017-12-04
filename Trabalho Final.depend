@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1467158070 source:c:\users\mateus\documents\cc\3\aed2\trabalho final\grafo.c
+	"grafo.h"
+
+1450162158 c:\users\mateus\documents\cc\3\aed2\trabalho final\grafo.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1467080167 source:c:\users\mateus\documents\cc\3\aed2\trabalho final\main.c
+	"grafo.h"
+

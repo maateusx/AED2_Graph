@@ -1,0 +1,31 @@
+[(0),usuario 1,13,1,descricao sobre usuario 1]
+[(1),usuario 2,24,2,descricao sobre usuario 2]
+[(2),usuario 3,25,3,descricao sobre usuario 3]
+[(3),usuario 4,25,4,descricao sobre usuario 4]
+[(4),usuario 5,25,4,descricao sobre usuario 5]
+[(5),usuario 6,25,4,descricao sobre usuario 6]
+[(6),usuario 7,25,4,descricao sobre usuario 7]
+[(7),usuario 8,25,4,descricao sobre usuario 8]
+[(8),usuario 9,25,4,descricao sobre usuario 9]
+[(9),usuario K,25,4,descricao sobre usuario K]
+[(10),usuario Y,25,4,descricao sobre usuario Y]
+[(11),usuario X,25,4,descricao sobre usuario X]
+[(12),usuario Z,25,4,descricao sobre usuario Z]
+[(13)-NULL]
+[(14)-NULL]
+*
+[0]0 2 3 4 7  
+[1]0 3 4 6 
+[2]1 7 9 10
+[3]0 5 7 8 
+[4]5 6 7 
+[5]1 2 8 
+[6]0 1 3 
+[7]3 6 7 
+[8]1 2 8 
+[9]1 2 9 
+[10]1 2 3 
+[11]0 3 4 
+[12]0 1 5 
+[13]
+[14]
